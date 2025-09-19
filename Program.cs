@@ -294,7 +294,7 @@ public class Program
         Console.WriteLine(biblioteca.AltaLector("María González", "87654321"));
         Console.WriteLine(biblioteca.AltaLector("Carlos López", "11223344"));
 
-        // Intentamos registrar un lector duplicado
+        // Intentamos registrar un lector duplicado AAAA
         Console.WriteLine(biblioteca.AltaLector("Juan Pérez", "12345678"));
         Console.WriteLine();
 
